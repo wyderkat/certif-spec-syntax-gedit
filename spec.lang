@@ -36,7 +36,7 @@
     <define-regex id="number">[1-9][0-9]*</define-regex>
 
     <context id="variable" style-ref="variable">
-      <match>\$[#0-9]</match>
+      <match>\$[#0-9]+</match>
     </context>
 
     <context id="escaped-char" style-ref="escaped-char" extend-parent="true">
