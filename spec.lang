@@ -259,9 +259,12 @@
       <keyword>motor_name</keyword>  
       <keyword>motor_num</keyword>   
       <keyword>motor_par</keyword>   
+      <keyword>mv</keyword>      
+      <keyword>mvr</keyword>      
       <keyword>off</keyword>         
       <keyword>on</keyword>          
       <keyword>open</keyword>        
+      <keyword>p</keyword>         
       <keyword>plot_cntl</keyword>   
       <keyword>plot_move</keyword>   
       <keyword>plot_range</keyword>  
